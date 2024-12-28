@@ -1,0 +1,21 @@
+{
+  "Groceries": [
+    {
+      "amount": 150,
+      "date": "2024-02-03",
+      "status": "expense"
+    },
+    {
+      "amount": 75,
+      "date": "2024-02-15",
+      "status": "expense"
+    }
+  ],
+  "Salary": [
+    {
+      "amount": 1000,
+      "date": "2024-02-01",
+      "status": "income"
+    }
+  ]
+}
